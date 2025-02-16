@@ -1,5 +1,5 @@
-# Mouse Control and Voice Commands with MediaPipe and Python  
-# Control de Mouse y Comandos de Voz con MediaPipe y Python  
+## Mouse Control and Voice Commands with MediaPipe and Python  
+## Control de Mouse y Comandos de Voz con MediaPipe y Python  
 
 This project uses the **MediaPipe** library to detect facial landmarks and control mouse movement based on head tilt. It also incorporates voice recognition to execute specific commands such as opening programs, adjusting volume, shutting down the computer, and more.
 
@@ -91,7 +91,7 @@ Texto libre: Cualquier otro texto reconocido se escribirá en la ventana activa.
 Exit: Press the q key in the camera window to close the program.
 Salir: Presiona la tecla q en la ventana de la cámara para cerrar el programa.
 
-Code Structure / Estructura del Código
+## Code Structure / Estructura del Código
 MediaPipe Face Mesh: Used to detect facial landmarks.
 MediaPipe Face Mesh: Se utiliza para detectar los puntos de referencia faciales.
 
@@ -104,17 +104,17 @@ Control del Mouse: Se controla el movimiento del mouse y los clics en función d
 Voice Commands: Executes specific actions based on recognized voice commands.
 Comandos de Voz: Se ejecutan acciones específicas basadas en los comandos de voz reconocidos.
 
-Limitations / Limitaciones
+## Limitations / Limitaciones
 Accuracy: The accuracy of mouse control and voice recognition may vary depending on the quality of the camera and microphone.
 Precisión: La precisión del control del mouse y el reconocimiento de voz puede variar dependiendo de la calidad de la cámara y el micrófono.
 
 Calibration: You may need to adjust the conversion factor (factor_conversion) for more precise mouse control.
 Calibración: Es posible que necesites ajustar el factor de conversión (factor_conversion) para que el control del mouse sea más preciso.
 
-Contributions / Contribuciones
+## Contributions / Contribuciones
 If you'd like to contribute to this project, feel free to fork it and submit a pull request! Any improvements or suggestions are welcome.
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacer un fork y enviar un pull request! Cualquier mejora o sugerencia es bienvenida.
 
-License / Licencia
+## License / Licencia
 This project is licensed under the MIT License. See the LICENSE file for details.
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
